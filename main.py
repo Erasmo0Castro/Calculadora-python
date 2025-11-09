@@ -1,4 +1,4 @@
-
+from operaciones import suma
 
 print("""
     ____________________________________________________________________
@@ -30,6 +30,6 @@ while True:
 
     match option:
         case "1":
-            print("suma")
+            print(suma.sumar())
         case "x": 
             break
