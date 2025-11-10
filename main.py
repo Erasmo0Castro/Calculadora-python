@@ -15,7 +15,8 @@ print("""
 
 """)
 
-while True:
+while True: #git fetch origin
+#git merge origin/main
 
     print("""
         1. Suma
