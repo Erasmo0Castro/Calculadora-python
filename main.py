@@ -1,4 +1,3 @@
-import operaciones
 from operaciones import suma
 from operaciones import resta
 from operaciones import multiplicacion
