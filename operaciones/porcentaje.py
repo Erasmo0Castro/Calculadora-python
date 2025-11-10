@@ -1,4 +1,9 @@
-def porcentaje(a, b):
-    if b == 0:
+from operaciones import utilities
+
+def porcentaje():
+    nums = utilities.number_input()
+    print("")
+    if nums[1] == 0:
         print("Elige otro numero final ya que porcentaje no puede ser 0")
-    return (a / b) * 100
+        return "//// Operación cancelada ////"
+    return f"//// El resultado es {(nums[0] / nums[1]) * 100} ////"
