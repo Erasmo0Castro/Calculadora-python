@@ -1,6 +1,6 @@
-# 🧮 Calculadora en Python
+# Calculadora en Python
 
-## 🚀 Funcionalidades
+## Funcionalidades
 La calculadora puede realizar las siguientes operaciones básicas:
 - ➕ **Suma**  
 - ➖ **Resta**  
@@ -18,7 +18,7 @@ El programa solicita **dos números** al usuario, realiza la operación seleccio
 
 ---
 
-## 🧾 Requisitos
+## Requisitos
 - **Python 3.11 o superior**  
 - No requiere librerías externas
 
@@ -38,7 +38,7 @@ El programa solicita **dos números** al usuario, realiza la operación seleccio
     ```bash
     python3 main.py o python main.py
 
-## 💡 Ejemplo de uso
+## Ejemplo de uso
 - Seleccione la operación: suma
 - Ingrese el primer número: 10
 - Ingrese el segundo número: 5
